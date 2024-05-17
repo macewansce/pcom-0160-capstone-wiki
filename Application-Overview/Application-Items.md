@@ -10,4 +10,5 @@ Create and Edit ToDo Item   | [Feature 57](../_workitems/edit/57/)
 The to do items, categories, priorities, and users are arranged in the database like this:
 
 ![entity-relationship-diagram](/.attachments/entity-relationship-diagram.png)
+
 Figure 1 - Entity Relationship Diagram

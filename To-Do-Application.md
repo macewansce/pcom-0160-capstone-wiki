@@ -2,7 +2,7 @@ The capstone project is focused on the development of a To Do application using 
 
 ## Navigation
 * [Application Overview](Application-Overview.md)
-* [Branch Workflow](Branch-Workflow.md)
+* [Development Management](Development-Management.md)
 * [Sprint Reviews](Sprint-Reviews.md)
 * [Sprint Planning](Sprint-Planning.md)
 * [Sprint Retrospectives](Sprint-Retrospectives.md)

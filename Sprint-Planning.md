@@ -1,3 +1,5 @@
+## Sprint Planning
+
 This is an area to capture items and issues from the sprint planning sessions.
 
 * [Planning 1](/Sprint-Planning/Planning-1.md) - Sprint 1

@@ -11,7 +11,7 @@ Once a user with the role of **User** is logged into the system, they should hav
 
    ![create-category-add](/.attachments/category-user-can-click-add-to-create-a-new-category.png)
 
-   Figure 1 - A user can click Add to create a new category
+   *Figure 1 - A user can click Add to create a new category*
 
 In the category maintenance area, clicking the Add button will allow a user to create a new category.
 
@@ -20,7 +20,7 @@ In the category maintenance area, clicking the Add button will allow a user to c
    
    ![read-category-list](/.attachments/category-user-can-view-the-category-list.png)
 
-   Figure 2 - A user can view the category list
+   *Figure 2 - A user can view the category list*
 
 The category maintenance area should display a list of categories for the active user.
 
@@ -29,7 +29,7 @@ The category maintenance area should display a list of categories for the active
 
    ![update-category-edit](/.attachments/category-user-can-click-edit-to-update-an-existing-category.png)
 
-   Figure 3 - A user can click edit to update an existing category
+   *Figure 3 - A user can click edit to update an existing category*
 
 Selecting the Edit button will allow a user to edit an existing category.
 
@@ -38,7 +38,7 @@ Selecting the Edit button will allow a user to edit an existing category.
 
    ![delete-category-remove](/.attachments/category-user-can-click-remove-to-delete-an-existing-category.png)
 
-   Figure 4 - A user can click remove to delete an existing category
+   *Figure 4 - A user can click remove to delete an existing category*
 
 Selecting the Remove button will allow a user (with confirmation!) to delete an existing category.
 
@@ -51,7 +51,7 @@ Selecting the Remove button will allow a user (with confirmation!) to delete an 
 
    ![create-priority-add](/.attachments/priority-user-can-click-add-to-create-a-new-priority.png)
 
-   Figure 1 - A user can click Add to create a new priority
+   *Figure 5 - A user can click Add to create a new priority*
 
 In the priority maintenance area, clicking the Add button will allow a user to create a new priority.
 
@@ -60,7 +60,7 @@ In the priority maintenance area, clicking the Add button will allow a user to c
    
    ![read-priority-list](/.attachments/priority-user-can-view-the-priority-list.png)
 
-   Figure 2 - A user can view the priority list
+   *Figure 6 - A user can view the priority list*
 
 The priority maintenance area should display a list of priority for the active user.
 
@@ -69,7 +69,7 @@ The priority maintenance area should display a list of priority for the active u
 
    ![update-priority-edit](/.attachments/priority-user-can-click-edit-to-update-an-existing-priority.png)
 
-   Figure 3 - A user can click edit to update an existing priority
+   *Figure 7 - A user can click edit to update an existing priority*
 
 Selecting the Edit button will allow a user to edit an existing priority.
 
@@ -78,7 +78,7 @@ Selecting the Edit button will allow a user to edit an existing priority.
 
    ![delete-priority-remove](/.attachments/priority-user-can-click-remove-to-delete-an-existing-priority.png)
 
-   Figure 4 - A user can click remove to delete an existing priority
+   *Figure 8 - A user can click remove to delete an existing priority*
 
 Selecting the Remove button will allow a user (with confirmation!) to delete an existing priority.
 

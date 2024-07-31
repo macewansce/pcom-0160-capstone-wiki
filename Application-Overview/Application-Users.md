@@ -9,7 +9,7 @@ Once a user with the role of **Administrator** is logged into the system, they s
 
    ![create-user-add](/.attachments/users-admin-can-click-add-to-create-a-new-user.png)
 
-   Figure 1 - An Administrator can click Add to create a new user
+   *Figure 1 - An Administrator can click Add to create a new user*
 
 In the user management area, clicking the Add button will allow an administrator to create a new user.
 
@@ -18,7 +18,7 @@ In the user management area, clicking the Add button will allow an administrator
    
    ![read-user-list](/.attachments/users-admin-can-view-a-list-of-users.png)
 
-   Figure 2 - An Administrator can view a list of users
+   *Figure 2 - An Administrator can view a list of users*
 
 The user management area should display a list of users of the system.
 
@@ -27,7 +27,7 @@ The user management area should display a list of users of the system.
 
    ![update-user-edit](/.attachments/users-admin-can-click-edit-to-update-an-existing-user.png)
 
-   Figure 3 - An Administrator can click edit to update an existing user
+   *Figure 3 - An Administrator can click edit to update an existing user*
 
 Selecting the Edit button will allow an administrator to edit an existing user.
 
@@ -36,7 +36,7 @@ Selecting the Edit button will allow an administrator to edit an existing user.
 
    ![delete-user-remove](/.attachments/users-admin-can-click-remove-to-delete-a-user.png)
 
-   Figure 4 - An Administrator can click Remove to delete an existing user
+   *Figure 4 - An Administrator can click Remove to delete an existing user*
 
 Selecting the Remove button will allow an administrator (with confirmation!) to delete an existing user.
 

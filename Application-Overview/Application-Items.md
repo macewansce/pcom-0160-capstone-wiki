@@ -4,7 +4,7 @@ The to do items, categories, priorities, and users are arranged in the database 
 
    ![entity-relationship-diagram](/.attachments/entity-relationship-diagram.png)
 
-   Figure 1 - Entity Relationship Diagram
+   *Figure 1 - Entity Relationship Diagram*
 
 
 
@@ -19,7 +19,7 @@ The To Do application allows a user to create, read, update, and delete items.
 
    ![create-item-add](/.attachments/todo-user-can-click-add-to-create-a-new-todo-item.png)
 
-   Figure 1 - A user can click Add to create a new todo item
+   *Figure 2 - A user can click Add to create a new todo item*
 
 In the todo item management area, clicking the Add button will allow a user to create a new todo item.
 
@@ -28,7 +28,7 @@ In the todo item management area, clicking the Add button will allow a user to c
    
    ![read-item-list](/.attachments/todo-user-can-view-a-list-of-todo-items.png)
 
-   Figure 2 - A user can view a list of todo items
+   *Figure 3 - A user can view a list of todo items*
 
 The todo item management area should display a list of todo items for the current user.
 
@@ -37,7 +37,7 @@ The todo item management area should display a list of todo items for the curren
 
    ![update-item-edit](/.attachments/todo-user-can-click-edit-to-update-an-existing-todo-item.png)
 
-   Figure 3 - A user can click edit to update an existing todo item
+   *Figure 4 - A user can click edit to update an existing todo item*
 
 Selecting the Edit button will allow a user to edit an existing todo item.
 
@@ -46,7 +46,7 @@ Selecting the Edit button will allow a user to edit an existing todo item.
 
    ![delete-item-remove](/.attachments/todo-user-can-click-remove-to-delete-a-todo-item.png)
 
-   Figure 4 - A user can click Remove to delete an existing todo item
+   *Figure 5 - A user can click Remove to delete an existing todo item*
 
 Selecting the Remove button will allow a user (with confirmation!) to delete an existing todo item.
 
@@ -70,7 +70,7 @@ A user can filter the list of items by category.
 
    ![complete-item-finish](/.attachments/todo-user-can-complete-an-item.png)
 
-   Figure 5 - A user can mark an item as complete
+   *Figure 6 - A user can mark an item as complete*
 
 Selecting the Complete icon will allow a user to mark an item as complete.
 

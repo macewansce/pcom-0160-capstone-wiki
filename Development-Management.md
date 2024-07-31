@@ -10,7 +10,7 @@ Even though all source management tasks can be done using menu options in each a
 
    ![git-workflow](/.attachments/development-git-workflow.png)
 
-   Figure 1 - Git Workflow Process
+   *Figure 1 - Git Workflow Process*
 
 The general workflow when coding is:
 
@@ -36,7 +36,7 @@ The class is generally split into two teams so the tasks can be split by front-e
 
    ![branch-workflow](/.attachments/development-branch-workflow.png)
 
-   Figure 2 - Branch Workflow Process
+   *Figure 2 - Branch Workflow Process*
 
 Team members will work on their local branch, pushing to their remote branch often to ensure regular remote backups. Close coordination with team leaders will to reduce the chance of code conflicts when merging units of work to the `team` branches.
 
@@ -51,7 +51,7 @@ This branch strategy may appear complicated but after using it for a week or two
 
    ![branch-strategy](/.attachments/development-branch-strategy.png)
 
-   Figure 3 - Branch Strategy Process
+   *Figure 3 - Branch Strategy Process*
 
 The `main` branch represents the code deployed to the live environment.
 

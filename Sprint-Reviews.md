@@ -12,4 +12,4 @@ This is an area to capture any important findings during each sprint review.
 * [Review 8](/Sprint-Reviews/Review-8.md) - Sprint 8
 * [Review 9](/Sprint-Reviews/Review-9.md) - Sprint 9
 
-There is [a template](/Sprint-Reviews/Reviews-Template.md) to capture the results of each meeting
+There is [a template](/Sprint-Reviews/Review-Template.md) to capture the results of each meeting

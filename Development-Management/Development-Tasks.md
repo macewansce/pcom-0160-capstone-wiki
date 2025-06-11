@@ -110,4 +110,46 @@ The capstone project has a set of Epics, Features, and User Stories already in p
 
 ### Associate a Commit to a Task
 
+1. Navigate to Repos | Branches and click *New branch* then create a branch name using the format [team]-[user]:
+
+   ![create-new-branch](/.attachments/development-commit-01-create-new-branch.png)
+
+   *Figure 1 - Create New Branch*
+
+   You may associate your branch with a task here, or leave the task blank at this point and add it during a commit or a pull request.
+
+
+2. Checkout your new branch and update the code to complete your task:
+
+   ![update-code](/.attachments/development-commit-02-update-code.png)
+
+   *Figure 2 - Update Code*
+
+
+3. Commit your code and link to your task:
+
+   ![commit-code](/.attachments/development-commit-03-commit-code.png)
+
+   *Figure 3 - Commit Code*
+
+
+4. Test and refine your code until it is ready to be merged with your team branch by creating a Pull Request:
+
+   ![create-pull-request](/.attachments/development-commit-04-create-pull-request.png)
+
+   *Figure 4 - Create Pull Request*
+
+
+5. Complete your pull request and optionally close the associatd task:
+
+   ![complete-pull-request](/.attachments/development-commit-05-complete-pull-request.png)
+
+   *Figure 5 - Create Pull Request*
+
+
+6. Review your task and confirm the branch, commit, and pull request are linked in the *Development* section:
+
+   ![review-task](/.attachments/development-commit-06-review-task.png)
+
+   *Figure 6 - Review Task*
 

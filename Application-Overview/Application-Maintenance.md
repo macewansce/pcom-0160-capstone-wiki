@@ -7,38 +7,38 @@ Once a user with the role of **User** is logged into the system, they should hav
 
 ### Category Maintenance
 
+#### View Categories List
+   
+   ![read-category-list](/.attachments/application-category-01-list.png)
+
+   *Figure 1.1 - A user can view the category list*
+
+The category maintenance area should display a list of categories for the active user. There should be the ability for the user to create a new category. Any listed categories should have the ability to view the category details or delete the category.
+
+
 #### Add Category
 
-   ![create-category-add](/.attachments/category-user-can-click-add-to-create-a-new-category.png)
+   ![create-category-add](/.attachments/application-category-02-add.png)
 
-   *Figure 1 - A user can click Add to create a new category*
+   *Figure 1.2 - A user can click Add to create a new category*
 
-In the category maintenance area, clicking the Add button will allow a user to create a new category.
-
-
-#### View Categories
-   
-   ![read-category-list](/.attachments/category-user-can-view-the-category-list.png)
-
-   *Figure 2 - A user can view the category list*
-
-The category maintenance area should display a list of categories for the active user.
+In the category maintenance area, selecting the Add function will allow a user to create a new category.
 
 
 #### Edit Category
 
-   ![update-category-edit](/.attachments/category-user-can-click-edit-to-update-an-existing-category.png)
+   ![update-category-edit](/.attachments/application-category-03-edit.png)
 
-   *Figure 3 - A user can click edit to update an existing category*
+   *Figure 1.3 - A user can click edit to update an existing category*
 
-Selecting the Edit button will allow a user to edit an existing category.
+Selecting the Edit function will allow a user to edit an existing category.
 
 
 #### Delete Category
 
-   ![delete-category-remove](/.attachments/category-user-can-click-remove-to-delete-an-existing-category.png)
+   ![delete-category-remove](/.attachments/application-category-04-remove.png)
 
-   *Figure 4 - A user can click remove to delete an existing category*
+   *Figure 1.4 - A user can click remove to delete an existing category*
 
 Selecting the Remove button will allow a user (with confirmation!) to delete an existing category.
 
@@ -47,40 +47,40 @@ Selecting the Remove button will allow a user (with confirmation!) to delete an 
 
 ### Priority Maintenance
 
-#### Add Priority
-
-   ![create-priority-add](/.attachments/priority-user-can-click-add-to-create-a-new-priority.png)
-
-   *Figure 5 - A user can click Add to create a new priority*
-
-In the priority maintenance area, clicking the Add button will allow a user to create a new priority.
-
-
 #### View Priorities
    
-   ![read-priority-list](/.attachments/priority-user-can-view-the-priority-list.png)
+   ![read-priority-list](/.attachments/application-priority-01-list.png)
 
-   *Figure 6 - A user can view the priority list*
+   *Figure 2.1 - A user can view the priority list*
 
-The priority maintenance area should display a list of priority for the active user.
+The priority maintenance area should display a list of priorities for the active user. There should be the ability for the user to create a new priority. Any listed priorities should have the ability to view the priority details or delete the priority.
+
+
+#### Add Priority
+
+   ![create-priority-add](/.attachments/application-priority-02-add.png)
+
+   *Figure 2.2 - A user can click Add to create a new priority*
+
+In the priority maintenance area, selecting the Add function will allow a user to create a new priority.
 
 
 #### Edit Priority
 
-   ![update-priority-edit](/.attachments/priority-user-can-click-edit-to-update-an-existing-priority.png)
+   ![update-priority-edit](/.attachments/application-priority-03-edit.png)
 
-   *Figure 7 - A user can click edit to update an existing priority*
+   *Figure 2.3 - A user can click edit to update an existing priority*
 
-Selecting the Edit button will allow a user to edit an existing priority.
+Selecting the Edit function will allow a user to edit an existing priority.
 
 
 #### Delete Priority
 
-   ![delete-priority-remove](/.attachments/priority-user-can-click-remove-to-delete-an-existing-priority.png)
+   ![delete-priority-remove](/.attachments/application-priority-04-remove.png)
 
-   *Figure 8 - A user can click remove to delete an existing priority*
+   *Figure 2.4 - A user can click remove to delete an existing priority*
 
-Selecting the Remove button will allow a user (with confirmation!) to delete an existing priority.
+Selecting the Remove function will allow a user (with confirmation!) to delete an existing priority.
 
 
 

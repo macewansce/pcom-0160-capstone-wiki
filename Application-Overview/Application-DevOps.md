@@ -2,7 +2,7 @@
 
 The Capstone project is hosted on Azure DevOps and uses the features and functions available to build and deploy the code to applications servers.
 
-The To Do application is configured to run a build and deploy pipeline when code is pushed to the `main` or `release-candidate` branches.
+The To Do application is configured to run a build and deploy pipeline when code is pushed to the `main` or `test` branches.
 
 
 

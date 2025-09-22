@@ -1,44 +1,44 @@
 ## User Management
 
-The To Do application supports user registration and access.
+The To Do application supports user registration and roles based access.
 
 Once a user with the role of **Administrator** is logged into the system, they should have the ability to perform the following functions:
 
 
-### Add User
-
-   ![create-user-add](/.attachments/users-admin-can-click-add-to-create-a-new-user.png)
-
-   *Figure 1 - An Administrator can click Add to create a new user*
-
-In the user management area, clicking the Add button will allow an administrator to create a new user.
-
-
 ### View User List
    
-   ![read-user-list](/.attachments/users-admin-can-view-a-list-of-users.png)
+   ![read-user-list](/.attachments/application-users-01-list.png)
 
-   *Figure 2 - An Administrator can view a list of users*
+   *Figure 1 - An Administrator can view a list of users*
 
-The user management area should display a list of users of the system.
+The user management area should display a list of users of the system. There should be the ability for the administrator to create a new user. Any listed users should have the ability to view the user details or delete the user.
+
+
+### Add User
+
+   ![create-user-add](/.attachments/application-users-02-add.png)
+
+   *Figure 2 - An Administrator can click Add to create a new user*
+
+In the user management area, selecting the Add function will allow an administrator to create a new user.
 
 
 ### Edit User
 
-   ![update-user-edit](/.attachments/users-admin-can-click-edit-to-update-an-existing-user.png)
+   ![update-user-edit](/.attachments/application-users-03-edit.png)
 
    *Figure 3 - An Administrator can click edit to update an existing user*
 
-Selecting the Edit button will allow an administrator to edit an existing user.
+Selecting the Edit function will allow an administrator to edit an existing user.
 
 
 ### Remove User
 
-   ![delete-user-remove](/.attachments/users-admin-can-click-remove-to-delete-a-user.png)
+   ![delete-user-remove](/.attachments/application-users-04-remove.png)
 
    *Figure 4 - An Administrator can click Remove to delete an existing user*
 
-Selecting the Remove button will allow an administrator (with confirmation!) to delete an existing user.
+Selecting the Remove function will allow an administrator (with confirmation!) to delete an existing user.
 
 
 ### Related Work Items

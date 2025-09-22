@@ -5,7 +5,7 @@ The To Do application allows a user to read, create, update, and delete items.
 
 ### View Item List
    
-   ![read-item-list](/.attachments/application-items-01-list.png)
+   ![read-item-list](/.attachments/application-item-01-list.png)
 
    *Figure 1 - A user can view a list of to do items*
 
@@ -14,7 +14,7 @@ The to do item management area should display a list of to do items for the curr
 
 ### Add Item
 
-   ![create-item-add](/.attachments/application-items-02-add.png)
+   ![create-item-add](/.attachments/application-item-02-add.png)
 
    *Figure 2 - A user can click Add to create a new to do item*
 
